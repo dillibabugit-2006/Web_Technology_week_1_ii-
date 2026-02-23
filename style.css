@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.menu a {
+    display: block;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
